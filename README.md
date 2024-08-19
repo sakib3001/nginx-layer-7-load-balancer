@@ -23,7 +23,7 @@ Before you begin, ensure you have the following tools installed on your machine:
 - #### Clone the project
 
 ```bash
-   git clone https://github.com/sakib3001/nginx-layer-7-load-lalancing
+   git clone https://github.com/sakib3001/nginx-layer-7-load-balancer
 
 ```
 
